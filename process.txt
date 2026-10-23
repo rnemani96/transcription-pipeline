@@ -4,3 +4,11 @@
 - created requirements.txt
 
 - Created project structure
+- Created basic models.py
+- Created audio.py
+            capture_output=True: grab stdout and stderr instead of printing them.
+            text=True: return strings, not bytes.
+            check=True: raise an error if the program exits with a failure code.
+            FileNotFoundError: ffmpeg isn’t installed or isn’t on PATH.
+            CalledProcessError: ffmpeg ran but failed, e.g. a corrupt file.
+
