@@ -1,0 +1,6 @@
+- Created project and virtual environment
+- made sure Gyan.FFmpeg existed
+- updated pip, installed faster-wisper, confirmed installation
+- created requirements.txt
+
+- Created project structure
