@@ -5,3 +5,6 @@ __pycache__/
 output/
 *.wav
 *.mp3
+*.m4a
+output_chunked/
+samples/
